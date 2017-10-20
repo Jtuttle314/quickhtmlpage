@@ -1,3 +1,3 @@
 # quickhtmlpage
 
-https://jtuttle314.github.io/quickhtmlpage/spongebob
+[click here](https://jtuttle314.github.io/quickhtmlpage/spongebob)
